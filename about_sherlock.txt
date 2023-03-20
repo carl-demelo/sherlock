@@ -1,0 +1,1 @@
+Sherlock is a modular diagnostic framework aimed to support several RDBMS engines.  A full suite of SQL Server diagnostic test is included in the initial release.
